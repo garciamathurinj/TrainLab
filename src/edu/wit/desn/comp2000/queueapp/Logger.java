@@ -11,7 +11,7 @@ public class Logger
 //methods here will take the strings passed to it and log them into the file called logger. 
 	private static PrintWriter pw;
 	
-	
+	//a//
 	public static void write(String message){
 		pw.println(message);
 	
